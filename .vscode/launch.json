@@ -1,0 +1,16 @@
+{
+  "type": "java",
+  "name": "Java Application",
+  "request": "launch",
+  "mainClass": "snakeGame",
+  "projectName": "snakeGame",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "SnakeGame",
+      "request": "launch",
+      "mainClass": "SnakeGame",
+      "projectName": "java snake_e554beec"
+    }
+  ]
+}
